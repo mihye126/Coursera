@@ -12,4 +12,9 @@
 
 5. Sequence Models
 
+https://www.youtube.com/c/Deeplearningai
+https://www.edwith.org/ai216/
+
+
+
 ### TensorFlow Developer Certification
